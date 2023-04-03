@@ -51,9 +51,9 @@ This repository only accepts .mp4, .jpg, .png, .pt, .h5 and .hdf5 files. But you
 
 ## Special Thanks and Regards
 
-I manipulated - [@RizwanMunawar]'s https://github.com/RizwanMunawar/yolov7-segmentation repository a little bit for my usage. So I owe a thank you to @RizwanMunawar
+I manipulated Rizwan Munawar's https://github.com/RizwanMunawar/yolov7-segmentation repository a little bit for my usage. So I owe a thank you to him.
 
-I also owe a debt of gratitude to my mentor - [@MehmetOKUYAR]. He guided me in my journey in the fields of Artificial Intelligence and Image Processing.
+I also owe a debt of gratitude to my mentor Mehmet Okuyar. He guided me in my journey in the fields of Artificial Intelligence and Image Processing.
 
 ## Acknowledgements
 
