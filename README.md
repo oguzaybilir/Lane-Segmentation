@@ -27,7 +27,7 @@ Install this repository with git.
   cd Lane-Segmentation
 ```
 
-## Installing required libraries
+## Installing Required Libraries
 
 There is a requirements.txt file to install packages you need. This file contains almost all libraries and modules used in the project.
 
