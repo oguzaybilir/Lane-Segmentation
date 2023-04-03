@@ -13,9 +13,13 @@ The system features:
 
 ## Inferences on Photo and Video
 
-![into gif](https://github.com/oguzaybilir/YOLOv7-Predict-with-UI/blob/main/gif/fotograf.gif)
+U-Net
 
-![into gif](https://github.com/oguzaybilir/YOLOv7-Predict-with-UI/blob/main/gif/video.gif)
+![into gif](https://github.com/oguzaybilir/Lane-Segmentation/blob/main/gifs/unet.gif)
+
+YOLOv7
+
+![into gif](https://github.com/oguzaybilir/Lane-Segmentation/blob/main/gifs/yolov7.gif)
 
 
 ## Cloning the Repository
