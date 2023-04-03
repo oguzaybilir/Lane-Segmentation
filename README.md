@@ -43,7 +43,7 @@ The project is so easy to use.
   python3 main.py --weights "path to your YOLOv7 weights" --source "path to your photo or video"
   python3 main.py --weights "path to your U-Net weights" --source "path to your photo or video"
 ```
-This repository is only accepts .mp4, .jpg, .png, .pt, .h5 and .hdf5 files.
+This repository only accepts .mp4, .jpg, .png, .pt, .h5 and .hdf5 files. But you can adjust the extensions in the main.py and segment/predict.py
 
 ## Authors
 
