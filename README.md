@@ -2,7 +2,7 @@
 
 # Segmentation İnferences Tool for U-Net and YOLOv7
 
-This project was conducted to compare the two most widely used segmentation architectures in real time.
+This project was conducted to compare the two most widely used segmentation architectures.
 
 The system features:
 
