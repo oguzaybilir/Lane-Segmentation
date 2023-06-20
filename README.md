@@ -42,12 +42,14 @@ To install this libraries and packages:
 ```
 
 ## Run 
-The project is so easy to use.
+The tool is so easy to use.
 ```bash
   python3 main.py --weights "path to your YOLOv7 weights" --source "path to your photo or video"
   python3 main.py --weights "path to your U-Net weights" --source "path to your photo or video"
 ```
-This repository only accepts .mp4, .jpg, .png, .pt, .h5 and .hdf5 files. But you can adjust the extensions in the main.py and segment/predict.py
+This repository only accepts source files as .mp4, .jpg, .png
+and only accepts weight files as .pt, .h5 and .hdf5 files.
+But you can adjust the extensions in the main.py and segment/predict.py
 
 ## Authors
 
