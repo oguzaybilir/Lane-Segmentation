@@ -24,7 +24,7 @@ YOLOv7
 
 ## Cloning the Repository
 
-Install this repository with git.
+Clone this repository with git.
 
 ```bash
   git clone https://github.com/oguzaybilir/Lane-Segmentation.git
