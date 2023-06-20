@@ -48,7 +48,7 @@ The tool is so easy to use.
   python3 main.py --weights "path to your U-Net weights" --source "path to your photo or video"
 ```
 This repository only accepts source files as .mp4, .jpg, .png
-and only accepts weight files as .pt, .h5 and .hdf5 files.
+and only accepts weight files as .pt, .h5 and .hdf5 .
 But you can adjust the extensions in the main.py and segment/predict.py
 
 ## Authors
